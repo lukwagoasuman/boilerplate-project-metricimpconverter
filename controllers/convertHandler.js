@@ -38,7 +38,6 @@ function ConvertHandler() {
     
     return result;
   };
-  
 }
 
 module.exports = ConvertHandler;
